@@ -1,0 +1,8 @@
+#files with extensions
+*.cfg
+
+#directories
+Include/
+Lib/
+Scripts/
+data/
